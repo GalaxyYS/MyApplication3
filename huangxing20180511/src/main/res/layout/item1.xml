@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10px">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/rcv_img"
+            android:layout_width="150px"
+            android:layout_height="150px"
+            fresco:placeholderImage="@mipmap/ic_launcher"
+            fresco:roundedCornerRadius="30dp"
+            fresco:roundTopLeft="true"
+            fresco:roundTopRight="true"
+            fresco:roundBottomLeft="true"
+            fresco:roundBottomRight="true">
+        </com.facebook.drawee.view.SimpleDraweeView>
+
+        <TextView
+            android:id="@+id/rcv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="只要你躺足70天，NASA就给你11万块钱！"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10px"/>
+    </LinearLayout>
+</LinearLayout>

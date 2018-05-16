@@ -1,0 +1,1 @@
+include ':app', ':huangxing20180508', ':huangxing20180508_test', ':huangxing20180509', ':huangxing20180509_test', ':huangxing20180510', ':huangxing20180510night', ':huangxing20180511', ':huangxing20180511_dreendao', ':quarterdemo', ':huangxing20180513', ':huangxing20180513_night', ':huangxing20180514', ':huangxing20180515', ':huangxing20180516'

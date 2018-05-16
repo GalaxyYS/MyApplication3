@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication3.iml" filepath="$PROJECT_DIR$/MyApplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180508/huangxing20180508.iml" filepath="$PROJECT_DIR$/huangxing20180508/huangxing20180508.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180508_test/huangxing20180508_test.iml" filepath="$PROJECT_DIR$/huangxing20180508_test/huangxing20180508_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180509/huangxing20180509.iml" filepath="$PROJECT_DIR$/huangxing20180509/huangxing20180509.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180509_test/huangxing20180509_test.iml" filepath="$PROJECT_DIR$/huangxing20180509_test/huangxing20180509_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180510/huangxing20180510.iml" filepath="$PROJECT_DIR$/huangxing20180510/huangxing20180510.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180510night/huangxing20180510night.iml" filepath="$PROJECT_DIR$/huangxing20180510night/huangxing20180510night.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180511/huangxing20180511.iml" filepath="$PROJECT_DIR$/huangxing20180511/huangxing20180511.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180511_dreendao/huangxing20180511_dreendao.iml" filepath="$PROJECT_DIR$/huangxing20180511_dreendao/huangxing20180511_dreendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180513/huangxing20180513.iml" filepath="$PROJECT_DIR$/huangxing20180513/huangxing20180513.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180513_night/huangxing20180513_night.iml" filepath="$PROJECT_DIR$/huangxing20180513_night/huangxing20180513_night.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180514/huangxing20180514.iml" filepath="$PROJECT_DIR$/huangxing20180514/huangxing20180514.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180515/huangxing20180515.iml" filepath="$PROJECT_DIR$/huangxing20180515/huangxing20180515.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huangxing20180516/huangxing20180516.iml" filepath="$PROJECT_DIR$/huangxing20180516/huangxing20180516.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quarterdemo/quarterdemo.iml" filepath="$PROJECT_DIR$/quarterdemo/quarterdemo.iml" />
+    </modules>
+  </component>
+</project>
