@@ -1,0 +1,30 @@
+第一周考试:
+
+  1. eventbus  可用于线程间通信  
+  2. retrofit  异步请求  回调方法在主线程中
+  3. retrofit异步请求的方法是enqueue(); 
+  4. greenDao3.0  采用的是注解
+  5. EventBus 线程模型:  POSTING  MAIN   BACKGROUND   ASYNC
+  6.ArrayList   LinkedList  array基于动态数组的数据结构  LinkedList  基于链表的数据结构
+    ArrayList  速度更快
+  7.Fresco  三级缓存   bitmap缓存  未解码缓存  文件缓存
+
+   day7.  
+   GreenDAO的本质是为存储在关系数据库SQLite中的数据提供面向对象的界面
+
+   Rxjava的异步  是观察者模式实现的
+   
+   Rxjava通过subcribOn和observeOn  来指定运行的线程
+  
+   Retrofit网络请求方法  :POST，GET， PUT，DELETE
+  
+   Rxjava属于响应式编程   回调方法 onCompleted代表  事件队列完结    互斥的是 onCompleted onErro
+   Rxjava  map是用来转换对象的
+   对Observer接口进行了一些扩展的类是  Subscriber  
+
+   day8.Rxjava中  用于指定发射事件所在线程的方法是  subscribeOn
+   
+   Rxjava  属于新增基础接口的有:   Publisher   Subscriber  Subscription  Processor
+
+   Lambda  表达式三部分:  参数列表  箭头符号    函数体  
+   Http   Get请求传递参数的注解有   query    QueryMap
